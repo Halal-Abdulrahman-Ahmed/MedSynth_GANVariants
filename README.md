@@ -19,4 +19,4 @@ The project includes three medical datasets used for training and testing the GA
 -	Lung Cancer Patient  
 -	Fetal Cardiotocography (CTG) 
 
-We employed the YData-Synthetic package to implement GAN, CGAN, CRAMER GAN, DRAGAN, and WGAN. For CTGAN implementation, we utilised the pre-existing CTGAN library. Additionally, we used other standard Python libraries such as Pandas, NumPy, Random, Seaborn, Matplotlib, and Scikit-learn.
+We implemented this code on a Kaggle notebook and employed the YData-Synthetic package to implement GAN, CGAN, CRAMER GAN, DRAGAN, and WGAN. For CTGAN implementation, we utilised the pre-existing CTGAN library. Additionally, we used other standard Python libraries such as Pandas, NumPy, Random, Seaborn, Matplotlib, and Scikit-learn.
