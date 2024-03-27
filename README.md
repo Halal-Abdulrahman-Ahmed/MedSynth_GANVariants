@@ -2,14 +2,13 @@
 This repository contains implementations of multiple Generative Adversarial Network (GAN) approaches for generating medical synthetic data. 
 
 Generative Adversarial Networks for Generating Medical Synthetic Data
-
-This repository contains implementations of multiple Generative Adversarial Network (GAN) approaches for generating synthetic data. The implemented GAN variants include:
-	GAN (Generative Adversarial Network)
-	CGAN (Conditional Generative Adversarial Network)
-	CTGAN (Conditional Tabular Generative Adversarial Network)
-	CRAMERGAN (Cramer Generative Adversarial Network)
-	DRAGAN (Deep Regret Analytic Generative Adversarial Network)
-	WGAN (Wasserstein Generative Adversarial Network)
+The implemented GAN variants include:
+-	GAN (Generative Adversarial Network)
+-	CGAN (Conditional Generative Adversarial Network)
+-	CTGAN (Conditional Tabular Generative Adversarial Network)
+-	CRAMERGAN (Cramer Generative Adversarial Network)
+-	DRAGAN (Deep Regret Analytic Generative Adversarial Network)
+-	WGAN (Wasserstein Generative Adversarial Network)
 
 
 Datasets/Raw Data
